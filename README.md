@@ -1,4 +1,6 @@
-# Support_Me_QR_Code<img width="518" height="575" alt="image" src="https://github.com/user-attachments/assets/aa54db3b-e9ee-4008-9fcd-86b9181e218e" />
+# Support_Me_QR_Code
+
+<img width="518" height="575" alt="image" src="https://github.com/user-attachments/assets/aa54db3b-e9ee-4008-9fcd-86b9181e218e" />
 
 非常感谢大家对我的帮助。
 
