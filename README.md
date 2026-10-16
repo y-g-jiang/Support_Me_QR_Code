@@ -6,13 +6,19 @@
 
 ## 多帧HDR-超分辨率项目
 
-JSR (https://github.com/y-g-jiang/Jiangtherapee-Super-Resolution-World-Best)(视频https://www.bilibili.com/video/BV1pgam69EKv)：
+JSR 
+
+(https://github.com/y-g-jiang/Jiangtherapee-Super-Resolution-World-Best)
+
+(视频https://www.bilibili.com/video/BV1pgam69EKv)：
 
 项目于26.2.22我写JO的stacklab时构思，从26.6.30到26.10.17共耗费一万多元。其中包括论文消融在内消耗的服务器租用费用六千多元（可开发票，两个autodl号），七月claudemax20，八到十月oai pro20（100），还有部分中转站费用。这是我第一个大项目，我从中学到各大厂商做算法的逻辑以及前沿论文究竟该如何看待了，后面项目中我的弯路比之前少很多。
 
 ## 单帧暗部无偏色降噪项目及标定、joint downsampling
 
-JDN (https://github.com/y-g-jiang/Jiangtherapee-DeNoise-World-Best)
+JDN
+
+(https://github.com/y-g-jiang/Jiangtherapee-DeNoise-World-Best)
 
 项目从25.7.20构思，同时给储卫民的开源套件提供降噪解决方案。在26年1月份以及7~9月进行了一定推进，在26年10月份重启。这个项目的预算在五千元左右。
 
